@@ -1,0 +1,729 @@
+O bir acentacı. It is a acentac.
+O bir acil durum yönetmeni. He is a director of the emergency.
+O bir adli tabip. He was a coroner.
+O bir agronomist. He&#39;s an agronomist.
+O bir ağ yöneticisi. It is a network administrator.
+O bir Aşçı. It is a cooks.
+O bir aşçıbaşı. He is a chef.
+O bir ahşap tekne yapımcısı. It is a wooden boat builder.
+O bir aile hekimi. He is a family physician.
+O bir aktar. He&#39;s a transfer.
+O bir akortçu. He is a tuner.
+O bir aktör. He is an actor.
+O bir aktüer. He&#39;s an actuary.
+* O bir aktris. She is an actress.
+O bir akustikçi. He is an acoustics.
+O bir albay. He was a colonel.
+O bir ambalajcı. He is a packers.
+O bir ambarcı. He is a stockman.
+O bir ambulans şoförü. He&#39;s an ambulance driver.
+O bir amiral. He&#39;s an admiral.
+O bir anahtarcı. He was a locksmith.
+O bir analist. He&#39;s an analyst.
+O bir anestezi uzmanı. He&#39;s an anesthesiologist.
+O bir Anestezi Teknikeri. He&#39;s an Anesthesia Technician.
+O bir animatör. He&#39;s an animator.
+O bir antika satıcısı. It&#39;s an antique dealer.
+O bir antropolog. He&#39;s an anthropologist.
+O bir apartman yöneticisi. It is an apartment manager.
+O bir araba satıcısı. He was a car salesman.
+O bir araba yıkayıcısı. He was a car washer.
+O bir arabacı. He was a coachman.
+O bir arabulucu. He is a mediator.
+O bir araştırmacı. He is a researcher.
+O bir arıcı. He is a beekeeper.
+O bir arkeolog. He&#39;s an archaeologist.
+O bir armatör. He is a shipowner.
+O bir arpist. He is a harpist.
+* O bir arşivci. She is a librarian.
+O bir artist. He&#39;s an artist.
+O bir asansörcü. He is a lifters.
+O bir asistan. He&#39;s an assistant.
+O bir asker. He is a soldier.
+O bir astrofizikçi. He&#39;s an astrophysicist.
+O bir astrolog. He&#39;s an astrologer.
+O bir astronom. He&#39;s an astronomer.
+O bir astronot. He&#39;s an astronaut.
+O bir astsubay. He was a non-commissioned officer.
+O bir atlet. He&#39;s an athlete.
+O bir av bekçisi. It&#39;s a game ranger.
+O bir avcı. He&#39;s a hunter.
+O bir avizeci. It is a avizec.
+O bir avukat. He&#39;s a lawyer.
+O bir ayakçı. He&#39;s an errand boy.
+O bir ayakkabı boyacısı. He was a shoeshine boy.
+O bir ayakkabı tamircisi. He is a cobbler.
+O bir ayakkabıcı. He was a shoemaker.
+O bir ayı oynatıcısı. He is a player of the month.
+O bir araba tamircisi. He was a car mechanic.
+O bir bacacı. He is a stack builder.
+O bir badanacı. He is a painter.
+O bir baharatçı. It is a spice.
+O bir bahçe bitkileri uzmanı. He is a horticulture specialist.
+O bir bahçıvan. He was a gardener.
+O bir bakan. He is a minister.
+* O bir bakıcı. She is a nurse.
+O bir bakırcı. He was a coppersmith.
+O bir bakkal. He is a grocery store.
+O bir bakteriyolog. He was a bacteriologist.
+O bir balıkçı. He was a fisherman.
+O bir balon pilotu. He is a balloon pilot.
+O bir bankacı. He is a banker.
+O bir banker. He is a banker.
+O bir barmen. He&#39;s a bartender.
+O bir barmeyd. He is a barmeyd.
+O bir basketbolcu. He&#39;s a basketball player.
+O bir başbakan. He is a prime minister.
+O bir başçavuş. He was a sergeant.
+O bir başdümenci. It is a başdümenc.
+O bir başhemşire. He was a head nurse.
+O bir başkan. He is a president.
+O bir başkomiser. He was a captain.
+O bir başpiskopos. He&#39;s an archbishop.
+O bir başrahip. He is a high priest.
+O bir belediye başkanı. He was a mayor.
+O bir belediye meclisi üyesi. He is a member of the municipal council.
+O bir benzinci. It&#39;s a gas station.
+O bir berber. He&#39;s a barber.
+O bir besteci. He is a composer.
+O bir biletçi. He is a conductor.
+O bir bilgisayar mühendisi. He is a computer engineer.
+O bir bilgisayar programcısı. He&#39;s a computer programmer.
+O bir bilgisayar tamircisi. He is a computer repair shop.
+O bir bilimadamı. He&#39;s a scientist.
+O bir bilirkişi. He&#39;s an expert.
+O bir binicilik. He&#39;s riding a horse.
+O bir biracı. He was a brewer.
+O bir bisikletçi. He is a cyclist.
+O bir biyografi yazarı. He was a biographer.
+O bir biyolog. He is a biologist.
+O bir bobinajcı. It is a bobinajc.
+O bir bombacı. He was a bomber.
+O bir bomba imhacı. It&#39;s a bomb annihilation.
+O bir borsacı. He&#39;s a stockbroker.
+O bir borucu. He is a borucu.
+O bir botanikçi. He was a botanist.
+O bir boyacı. He is a painter.
+O bir bozacı. He is a BOZACI.
+O bir böcekbilimci. He&#39;s an entomologist.
+* O bir börekçi. She is a pastry.
+O bir bulaşıkçı. He was a dishwasher.
+O bir buldozer operatörü. He was a bulldozer operator.
+O bir bütçe uzmanı. It is a budget expert.
+O bir büyükelçi. He&#39;s an ambassador.
+O bir besicilik. It&#39;s a fattening.
+O bir Bebek Bakıcısı. It&#39;s a Baby Sitter.
+O bir bilgi İşlemci. He&#39;s an information processor.
+O bir camcı. He was a glazier.
+O bir cerrah. He&#39;s a surgeon.
+O bir celep. He was a drover.
+O bir cellat. He&#39;s an executioner.
+O bir cillopçu. It is a cillopç.
+O bir cumhurbaşkanı. He is a president.
+O bir Çamaşırcı. He is a washerwoman.
+O bir Çantacı. He&#39;s a drug store.
+O bir Çarkçı. He is a Çarkçı.
+O bir Çatıcı. It is a Roofing.
+O bir Çaycı. He is a Çaycı.
+O bir Çevirmen. He is a translator.
+O bir Çevrebilimci. He is a ecologists.
+O bir Çevre Mühendisi. He&#39;s an environmental engineer.
+O bir Çeyizci. It is a Çeyizc.
+O bir Çıkıkçı. He is a masseur.
+O bir Çıkrıkçı. He is a Çıkrıkçı.
+* O bir Çiçekçi. She&#39;s a florist.
+O bir Çiftçi. He is a farmer.
+O bir Çiftlik işletici. He operated a farm.
+O bir Çikolatacı. He is a Chocolatier.
+O bir Çilingir. He was a locksmith.
+O bir Çinici. He is a ceramist.
+O bir Çitçi. He is a Çitçi.
+O bir Çoban. He was a shepherd.
+O bir Çocuk doktoru. He is a pediatrician.
+O bir Çorapçı. He is a Çorapçı.
+O bir Çöp işçisi. It&#39;s a garbage worker.
+O bir Çöpçü. It&#39;s a Scavenger.
+O bir Çırak. He&#39;s an apprentice.
+O bir Çevik Kuvvet. It&#39;s a riot.
+* O bir dadı. She is a nurse.
+O bir daktilograf. He was a typist.
+O bir dalgıç. He is a diver.
+O bir damıtıcı. He is a distiller.
+O bir danışman. He is a consultant.
+* O bir dansöz. She&#39;s a dancer.
+O bir davulcu. He is a drummer.
+O bir debbağ. He is a Tanners.
+O bir dedektif. He&#39;s a detective.
+O bir değirmen işçisi. He was a mill worker.
+O bir değirmenci. He was a miller.
+O bir demirci. He was a blacksmith.
+O bir demiryolu işçisi. He was a railroad worker.
+O bir denetçi. He&#39;s an inspector.
+O bir denetleyici. O controller.
+O bir denizci. He&#39;s a sailor.
+O bir depocu. He was a storekeeper.
+O bir derici. He was a leather shop.
+O bir desinatör. He&#39;s a designer.
+O bir devlet memuru. He is a civil servant.
+O bir dilci. He is a linguist.
+O bir dilenci. He was a beggar.
+O bir diplomat. He is a diplomat.
+O bir diş hekimi. He&#39;s a dentist.
+* O bir diyetisyen. She is a nutritionist.
+O bir dizgici. He was a typesetter.
+O bir doğalgazcı. It is a doğalgazc.
+O bir doğramacı. He was a carpenter.
+O bir doğum uzmanı. He&#39;s an obstetrician.
+O bir dok işçisi. He was a longshoreman.
+O bir dokumacı. He is a weaver.
+O bir doktor. He is a doctor.
+O bir dondurmacı. He&#39;s an ice cream.
+O bir dökümcü. He was a metalworker.
+O bir döşemeci. He&#39;s an upholsterer.
+O bir dövizci. It is a dövizc.
+O bir dublajcı. It is a dublajc.
+O bir duvarcı. He was a bricklayer.
+O bir dümenci. He is a helmsman.
+O bir diş teknisyeni. He was a dental technician.
+* O bir ebe. She is a midwife.
+* O bir eczacı. She is a pharmacist.
+* O bir eczacı kalfası. She is a pharmacist assistants.
+O bir editör. He&#39;s an editor.
+O bir eğitimci. He&#39;s an educator.
+O bir eğitmen. He is a trainer.
+O bir ekonomist. He was an economist.
+O bir elektrik mühendisi. He&#39;s an electrical engineer.
+O bir elektronik mühendisi. He is an electronic engineer.
+O bir elektrikçi. He&#39;s an electrician.
+O bir eleştirmen. He is a critic.
+O bir embriyolog. He&#39;s an embryologist.
+O bir emlakçı. He is a real estate agent.
+O bir emniyet amiri. He is a police chief.
+O bir emniyet genel müdürü. He is a police chief.
+O bir endüstri mühendisi. He is an industrial engineer.
+O bir endüstri sistemleri mühendisi. He is a systems engineer industry.
+O bir enstrüman imalatçısı. It is a musical instrument manufacturer.
+O bir ergonomist. He ergonomists.
+O bir eskici. He is a junk.
+O bir estetisyen. He&#39;s an esthetician.
+O bir etolojist. He&#39;s an ethologist.
+O bir etimolog. He is a etymologist.
+O bir etnolog. He&#39;s an ethnologist.
+* O bir ev hanımı. She is a housewife.
+O bir fabrika işçisi. He is a factory worker.
+* O bir fahişe. She&#39;s a hooker.
+O bir falcı. He&#39;s a fortune teller.
+O bir fermantasyon işçisi. He is a fermentation worker.
+O bir fıçıcı. He was a cooper.
+O bir fırıncı. He was a baker.
+O bir figüran. It&#39;s a prop.
+O bir film yapımcısı. He is a filmmaker.
+O bir film yönetmeni. He is a film director.
+O bir filozof. He is a philosopher.
+O bir finansör. He was a financier.
+O bir fizikçi. He&#39;s a physicist.
+O bir fizyonomist. He is a fizyonomist.
+* O bir fizyoterapist. She is a physiotherapist.
+O bir acil tıp teknisyeni. He&#39;s an emergency medical technician.
+O bir fon yöneticisi. He is a fund manager.
+O bir forklift operatörü. He was a forklift operator.
+O bir fotoğrafçı. He&#39;s a photographer.
+O bir futbolcu. He is a footballer.
+O bir gardiyan. He was a guard.
+O bir galerici. He is a gallerist.
+* O bir garson. She is a waitress.
+O bir gazete dağıtıcısı. He was a newspaper distributor.
+O bir gazete satıcısı. He was a newspaper seller.
+O bir gazeteci. He&#39;s a journalist.
+O bir gelir uzmanı. He is a specialist in income.
+O bir gelir uzman yardımcısı. It is a revenue expert help.
+O bir gemici. He&#39;s a sailor.
+O bir general. He&#39;s a general.
+O bir genetik mühendisi. He was a genetic engineer.
+O bir geyşa. It&#39;s a geisha.
+O bir gezgin. He is a wanderer.
+O bir gezici vaiz. He&#39;s an evangelist.
+O bir gıda mühendisi. It is a food engineer.
+O bir gitarist. He is a guitarist.
+O bir gondolcu. It&#39;s a gondolier.
+O bir gökbilimci. He&#39;s an astronomer.
+O bir göz doktoru. He&#39;s an ophthalmologist.
+O bir gözetmen. He is a supervisor.
+O bir gözlükçü. He&#39;s an optician.
+O bir grafiker. He is a graphic designer.
+O bir gramer uzmanı. He was a grammar expert.
+O bir greyder operatörü. He was a grader operator.
+O bir guru. He is a guru.
+O bir güfteci. It is a güftec.
+O bir gümrük memuru. He was a customs officer.
+O bir gümrük müşaviri. He is a customs consultant.
+O bir gümrük müşavir yardımcısı. He&#39;s an assistant customs consultant.
+O bir gümrük uzmanı. He is a customs expert.
+O bir gündelikçi. He was a laborer.
+* O bir güzellik uzmanı. She is a cosmetologist.
+O bir haberci. He is a messenger.
+O bir haddeci. It is a re-rollers.
+O bir haham. He was a rabbi.
+O bir hakem. He is a referee.
+O bir halıcı. He&#39;s a carpet.
+O bir halkbilimci. He is a folklorist.
+O bir hamal. He was a porter.
+O bir hamamcı. He is a hamamci.
+O bir hamurkâr. He is a hamurkâ.
+O bir hareket memuru. He is a dispatcher.
+O bir haritacı. He is a cartographer.
+O bir harita mühendisi. It&#39;s a map engineer.
+* O bir hastabakıcı. She is a nurse.
+O bir hattat. He is a calligrapher.
+O bir hava trafikçisi. It is an air traffickers.
+O bir havacı. He&#39;s an aviator.
+O bir haydut. He&#39;s a thug.
+O bir hayvan bakıcısı. It&#39;s a pet sitter.
+O bir hayvan terbiyecisi. He&#39;s an animal trainer.
+* O bir hemşire. She is a nurse.
+O bir hesap uzmanı. He&#39;s an accountant.
+O bir heykeltıraş. He is a sculptor.
+O bir hırdavatçı. It&#39;s a hardware store.
+O bir hırsız. He&#39;s a thief.
+O bir hidrolikçi. It is a hydraulicien.
+O bir hizmetçi. He is a servant.
+O bir hokkabaz. He is a juggler.
+O bir host. He is a host.
+O bir hava hostesi. He&#39;s an air hostess.
+O bir hukukçu. He&#39;s a lawyer.
+O bir hurdacı. He is a wrecker.
+O bir irgat. He is a windlass.
+O bir işıkçı. He is a işıkcı.
+O bir İcra memuru. He is a bailiff.
+O bir İç mimar. He&#39;s an interior designer.
+O bir İğneci. It is a İğnec.
+O bir İhracatçı. He&#39;s an exporter.
+O bir İktisatçı. He&#39;s an economist.
+O bir İlahiyatçı. He is a theologian.
+O bir İllüzyonist. He is a Magician.
+O bir İmam. He is a steward.
+O bir İnsan kaynakları uzmanı. He is a human resources specialist.
+O bir İnşaat mühendisi. He is a civil engineer.
+O bir İnşaatçı. He is a Builders.
+O bir İpçi. One of the IPC.
+O bir İplikçi. He is a spinner.
+O bir İstatistikçi. He is a statistician.
+O bir İstihkâmcı. He is a sappers.
+O bir İşaretçi. It is a pointer.
+O bir İşçi. He is a worker.
+O bir İşletmeci. He&#39;s an operator.
+O bir İşletme mühendisi. He is a business engineer.
+O bir İşportacı. He is a pitchman.
+O bir İş ve uğraşı terapisti. He&#39;s an occupational therapist.
+O bir İtfaiyeci. He&#39;s a fireman.
+O bir İthalatçı. He&#39;s one of the Importer.
+O bir jeofizik mühendisi. He is a geophysical engineer.
+O bir jeoloji mühendisi. It is a geological engineer.
+O bir jeolog. He is a geologist.
+O bir jeomorfolog. He is a geomorphology.
+* O bir jinekolog. She is a gynecologist.
+* O bir jimnastikçi. She is a gymnast.
+O bir jokey. He&#39;s a jockey.
+O bir kabin görevlisi. It is a cabin attendant.
+O bir kabuk soyucusu. It is a peeler.
+* O bir kadın berberi. She is a woman barber.
+O bir kadın terzisi. He was a dressmaker.
+O bir kâğıtçı. He is a crook.
+O bir kahveci. He&#39;s a coffee shop.
+O bir kâhya. He is a steward.
+O bir kalaycı. He was a tinsmith.
+O bir kalıpçı. He was a molder.
+O bir kaloriferci. It is a kaloriferc.
+O bir kamarot. He is a steward.
+O bir kameraman. He was a cameraman.
+O bir kamyoncu. He is a truck driver.
+O bir kapı satıcısı. It&#39;s a door salesman.
+O bir kapıcı. He&#39;s a janitor.
+O bir kaplamacı. He is a plater.
+O bir kaportacı. He was a bodybuilder.
+O bir kaptan. He was a captain.
+O bir kardinal. It is a cardinal.
+O bir kardiyolog. He is a cardiologist.
+O bir karikatürist. He&#39;s a cartoonist.
+O bir karoserci. He is a bodybuilder.
+O bir karpuzcu. He is a KARPUZCU.
+O bir kasap. He&#39;s a butcher.
+* O bir kasiyer. She is a cashier.
+O bir kat görevlisi. He was a floor guard.
+O bir kâtip. He was a clerk.
+O bir kayıkçı. He is a boatman.
+O bir kaymakam. He&#39;s a prefect.
+O bir kaynakçı. He was a welder.
+O bir kazıcı. He&#39;s a digger.
+O bir kebapçı. It is a kebab.
+* O bir kemancı. She is a violinist.
+O bir kesimci. He is a kesimci.
+O bir kırtasiyeci. It&#39;s a stationer.
+O bir kimyager. He is a chemist.
+O bir kimya mühendisi. He is a chemical engineer.
+O bir kitapçı. It&#39;s a bookstore.
+O bir klarnetçi. He is a clarinetist.
+O bir koleksiyoncu. He&#39;s a collector.
+O bir komedyen. He is a comedian.
+O bir komisyoncu. He is a broker.
+O bir komiser. He is a commissioner.
+O bir konserveci. He is a canner.
+O bir konsolos. He was a consul.
+* O bir konsomatris. She&#39;s a hostess.
+O bir kontrolör. O controller.
+O bir konveyör operatörü. He is a conveyor operator.
+O bir kopyalayıcı. He is a copier.
+* O bir koreograf. She&#39;s a choreographer.
+O bir korgeneral. He is a lieutenant general.
+O bir koramiral. He was a vice admiral.
+O bir korsan. He&#39;s a pirate.
+O bir koruma görevlisi. He&#39;s a security guard.
+O bir komiser. He is a commissioner.
+O bir komiser yardımcısı. He was a sergeant.
+O bir kozmolog. He is a cosmologist.
+O bir köfteci. He is a köfteci.
+O bir kömürcü. He was a coal-miner.
+O bir köpek eğiticisi. It&#39;s a dog trainer.
+O bir köşe yazarı. He is a columnist.
+* O bir kuaför. She is a hairdresser.
+O bir kuşçu. He is a birder.
+O bir kumarbaz. He was a gambler.
+O bir kumaşçı. He was a clothier.
+O bir kumcu. It is a proteolytic.
+O bir kuru temizlemeci. It&#39;s a dry cleaner.
+O bir kuruyemişçi. It is a dried fruit.
+O bir kurye. He is a courier.
+O bir kuşbilimci. He&#39;s an ornithologist.
+O bir kuyumcu. He was a jeweler.
+O bir kürkçü. He was a furrier.
+* O bir kütüphaneci. She is a librarian.
+O bir laborant. It&#39;s a laboratory.
+O bir laboratuar işçisi. It is a laboratory worker.
+O bir lahmacuncu. It is a lahmacunc.
+O bir lehimci. He&#39;s a plumber.
+O bir levazımcı. He was a quartermaster.
+O bir lobici. He&#39;s a lobbyist.
+O bir lokantacı. He is a restaurateur.
+O bir lokomotifçi. He&#39;s an engine driver.
+O bir lostromo. He was a boatswain.
+O bir lostracı. He is a shoeblack.
+O bir lokman. That&#39;s a mouthful.
+O bir madenci. He was a miner.
+O bir makasçı. He was a switchman.
+O bir makastar. Or a fitter.
+O bir maketçi. He is a Maketci.
+O bir makinist. He was a machinist.
+O bir makine mühendisi. He is a mechanical engineer.
+O bir makine zabiti. He&#39;s an engineer officers.
+O bir makyajcı. It is a makeup artist.
+O bir mali hizmetler uzmanı. He is a financial services specialist.
+O bir manastır baş rahibesi. He heads a monastery of nuns.
+O bir manav. He was a grocer.
+O bir manifaturacı. He was a draper.
+O bir manikürcü. That&#39;s a manicurist.
+* O bir manken. She&#39;s a mannequin.
+O bir marangoz. He was a carpenter.
+O bir masör. He is a masseur.
+* O bir masöz. She is a masseuse.
+O bir matador. He&#39;s a matador.
+O bir matbaacı. He was a printer.
+O bir matematikçi. He is a mathematician.
+O bir matkapçı. It is a matkapç.
+O bir memur. He is a civil servant.
+O bir menajer. He is a manager.
+O bir mermerci. He is a mermerci.
+O bir metalurji mühendisi. He is a metallurgical engineer.
+O bir meteoroloji uzmanı. He is a meteorologist.
+O bir metin yazarı. He was a copywriter.
+O bir mevsimlik işçi. It is a seasonal worker.
+O bir meydancı. He&#39;s a fielder.
+O bir meyhaneci. He was a publican.
+O bir mezarcı. He&#39;s a gravedigger.
+O bir midyeci. It is a midyec.
+O bir mikrobiyolog. He is a microbiologist.
+O bir milletvekili. He is a member of parliament.
+O bir mimar. He&#39;s an architect.
+O bir misyoner. He was a missionary.
+O bir mobilyacı. He was a furniture store.
+* O bir modacı. She is a fashion designer.
+* O bir model. She&#39;s a model.
+O bir modelci. It is a modeler.
+O bir modelist. He&#39;s a designer.
+O bir montajcı. He&#39;s an installer.
+O bir montör. He is a mount.
+O bir motor tamircisi. He is a mechanic.
+O bir motorcu. He is a biker.
+O bir muallim. He&#39;s a teacher.
+O bir muhabbet tellalı. He&#39;s a pimp.
+O bir muhabir. He&#39;s a reporter.
+O bir muhafız. He was a guard.
+O bir muhasebeci. He&#39;s an accountant.
+O bir muhtar. He is a chairman.
+O bir mumyalayıcı. One of the embalmers.
+O bir muzcu. It is a muzc.
+O bir mübaşir. He is a bailiff.
+O bir müdür. He is a director.
+O bir müezzin. It is a muezzin.
+O bir müfettiş. He&#39;s an inspector.
+O bir müşavir. He is a consultant.
+O bir mühendis. He is an engineer.
+O bir müneccim. He&#39;s an astrologer.
+* O bir mürebbiye. She is a governess.
+* O bir müsteşar. She is a secretary.
+O bir müteahhit. He&#39;s a contractor.
+O bir mütercim. I&#39;m an interpreter.
+O bir müze müdürü. He is a director of the museum.
+O bir müzik yönetmeni. He is a music director.
+O bir müzisyen. He&#39;s a musician.
+O bir nalıncı. He is a Nalinci.
+O bir nakışçı. He&#39;s an embroiderer.
+O bir nakliyeci. He is a courier.
+O bir nalbant. He was a blacksmith.
+O bir nalbur. It&#39;s a hardware store.
+O bir noter. He is a notary.
+O bir obuacı. He&#39;s an oboist.
+O bir ocakçı. It&#39;s a sweep.
+O bir odacı. It is a chamber.
+O bir oduncu. He&#39;s a lumberjack.
+O bir okçu. He&#39;s an archer.
+O bir okul müdürü. He was a school principal.
+O bir okutman. He is a lecturer.
+O bir operatör. He&#39;s an operator.
+O bir opera sanatçısı. He was an opera singer.
+O bir orgcu. He&#39;s an organist.
+O bir orgeneral. He&#39;s a general.
+O bir orman mühendisi. It is a forest engineer.
+O bir ornitolog. He&#39;s an ornithologist.
+O bir otelci. He is a hotelier.
+O bir oto elektrikçisi. He&#39;s an auto electrician.
+O bir oto tamircisi. He&#39;s an auto mechanic.
+O bir oto yedek parçacı. It&#39;s a spare particles.
+O bir overlokçu. He is a Sewing for.
+O bir oymacı. He is a carver.
+O bir oyuncu. He&#39;s an actor.
+O bir oyun hostesi. It&#39;s a game hostess.
+O bir oyun yazarı. He is a playwright.
+O bir oyuncakçı. It&#39;s a toy.
+O bir oto lastik tamircisi. He is a tire repair shop.
+* O bir Öğretmen. She&#39;s a teacher.
+O bir Öğretim elemanı. He&#39;s an instructor.
+O bir Öğretim görevlisi. He is a lecturer.
+O bir Öğretim üyesi. He is a member of the Teaching.
+O bir Örmeci. He is a Örmeci.
+O bir Ön muhasebeci. It is a pre accountant.
+O bir Ön muhasebe sorumlusu. It is a pre accountant.
+O bir Ön muhasebe yardımcı elemanı. It is a pre-accounting assistant.
+O bir Ön büro elemanı. He is a member of the front office.
+O bir Özel şoför. It is a private chauffeur.
+O bir paketleyici. He was a bundler.
+O bir palyaço. He&#39;s a clown.
+O bir pandomimci. He is a mime.
+O bir pansiyoncu. It is a pansiyoncu.
+O bir pansumancı. It is a pansumanc.
+O bir papa. He was a pope.
+O bir papaz. He is a priest.
+O bir paralı asker. He&#39;s a mercenary.
+O bir park bekçisi. He&#39;s a park ranger.
+O bir pastörizör. He is a Pastora.
+O bir patolog. He is a pathologist.
+O bir peçeteci. It is a peçetec.
+O bir penci. It is a pence.
+O bir perukçu. He is a wig guy.
+O bir peyzaj mimarı. It is a landscape architect.
+O bir peyzaj teknikeri. It is a landscape technician.
+O bir pideci. He is a pideci.
+O bir pilavcı. He is a pilavci.
+O bir pilot. He is a pilot.
+O bir piskopos. He was a bishop.
+O bir piyade. He was a foot soldier.
+O bir piyango satıcısı. It&#39;s a lottery dealer.
+O bir piyanist. He is a pianist.
+O bir polis memuru. He is a police officer.
+O bir polis şefi. He is a police chief.
+O bir polisajcı. It is a polisajc.
+O bir politikacı. He&#39;s a politician.
+O bir pompacı. He&#39;s a plumber.
+O bir postacı. He was a postman.
+O bir profesör. He is a professor.
+O bir proktolog. He is a proctologist.
+O bir protokol görevlisi. It is a protocol officer.
+O bir psikiyatr. He is a psychiatrist.
+O bir psikolog. He is a psychologist.
+O bir psikolojik danışman. He is a counselor.
+O bir radyolog. He is a radiologist.
+O bir redaktör. He is an editor.
+O bir rehber. It is a guide.
+O bir rejisör. He is a director.
+O bir reklamcı. He&#39;s an advertiser.
+O bir rektör. He was a rector.
+O bir rektör yardımcısı. He is a vice rector.
+O bir remayözcü. It is a remayözc.
+O bir ressam. He is a painter.
+O bir resepsiyon memuru. He was a desk clerk.
+O bir rot balansçı. He balansç of a rod.
+O bir radyoloji teknisyeni. He is a radiology technician.
+O bir saat tamircisi. He was a watchmaker.
+O bir saatçi. He was a watchmaker.
+O bir sağlık teknisyeni. He was a medical technician.
+O bir sahil koruma. It&#39;s a coast guard.
+O bir saksofoncu. He is a saxophonist.
+O bir salepçi. He is a Salepçi.
+O bir sanat yönetmeni. He is an art director.
+O bir sanayici. He is an industrialist.
+O bir sansürcü. It&#39;s a censor.
+O bir santral memuru. He is a telephonist.
+O bir saraç. He was a saddler.
+O bir sarraf. He was a moneychanger.
+O bir satış elemanı. He&#39;s a salesman.
+O bir savcı. He is a prosecutor.
+O bir saz şairi. He is a bard.
+* O bir sekreter. She is a secretary.
+O bir sepetçi. He is a sepetçi.
+O bir serbest muhasebeci mali müşavir. He is a public accountant.
+O bir ses teknisyeni. He is a sound technician.
+O bir seyis. He is a groom.
+O bir sınırlı baş makinist. He is a restricted chief engineer.
+O bir sicil memuru. He is a registrar.
+O bir sigortacı. He insurer.
+O bir sihirbaz. He&#39;s a wizard.
+O bir silahçı. He was a gunner.
+O bir silindir operatörü. It&#39;s a roller operator.
+O bir simitçi. It is a pretzel.
+O bir simyacı. He&#39;s an alchemist.
+O bir sistem mühendisi. He is a systems engineer.
+O bir sistem yöneticisi. It is a system administrator.
+O bir soğuk demirci. It&#39;s a cold blacksmith.
+O bir sokak çalgıcısı. He was a busker.
+O bir sokak satıcısı. He was a street vendor.
+O bir son ütücü. He is a recent grinder.
+O bir sorgu hâkimi. It&#39;s a query judge.
+* O bir sosyal hizmet uzmanı. She is a social worker.
+O bir sosyolog. He is a sociologist.
+O bir spiker. He is a speaker.
+O bir stenograf. He was a stenographer.
+* O bir stilist. She is a stylist.
+* O bir striptizci. She&#39;s a stripper.
+O bir su tesisatçısı. He&#39;s a plumber.
+O bir subay. He&#39;s an officer.
+O bir sucu. It is a crime.
+O bir suflör. He was a prompter.
+O bir sulh hâkimi. He is a magistrate.
+O bir sunucu. It is a server.
+O bir susuz araç yıkamacı. He is a waterless car wash.
+O bir sünnetçi. He is a mohel.
+O bir sürveyan. He was a surveyor.
+O bir sütanne. He is a sütann to.
+O bir sütçü. He was a milkman.
+O bir Şahinci. He is a falconer.
+O bir Şair. He&#39;s a poet.
+O bir Şapel papazı. He is a priest of the chapel.
+O bir Şapkacı. He was a hatter.
+O bir Şarap üreticisi. It is a wine producer.
+* O bir Şarkıcı. She&#39;s a singer.
+O bir Şarkı sözü yazarı. He said the author of a song.
+O bir Şarküter. He is a Şarküt.
+O bir Şekerci. He was a confectioner.
+O bir Şemsiyeci. It is a Şemsiyec.
+O bir Şifre çözümleyici. It is a password analyzer.
+O bir Şimşirci. It is a Şimşirc.
+O bir Şoför. He&#39;s a driver.
+O bir Şarapçı. He was a wino.
+O bir Şehir Plancısı. He was a City Planner.
+O bir tabakçı. He was a tanner.
+O bir tabelacı. It is a signboard.
+O bir tahsildar. He&#39;s a collector.
+O bir taksici. He is a taxi driver.
+O bir tarım işçisi. He was a farm worker.
+O bir tarihçi. He is a historian.
+O bir tasarımcı. He&#39;s a designer.
+O bir taşçı. He was a stonemason.
+O bir taşlayıcı. He&#39;s a grinder.
+O bir tatlıcı. He is a sweet shop.
+O bir tavukçu. He is a tavukçu.
+O bir tayfa. He was a crew.
+O bir tefeci. He is a usurer.
+O bir teğmen. He was a lieutenant.
+O bir tekniker. He is a technician.
+O bir teknisyen. He is a technician.
+O bir teknoloji uzmani. It is a technology expert.
+O bir telefon operatörü. He was a telephone operator.
+O bir telekız. It&#39;s a call girl.
+O bir televizyon tamircisi. He is a television repairman.
+O bir tellal. He was a howler.
+O bir temizlikçi. He&#39;s a janitor.
+O bir temsilci. He is a representative.
+* O bir terapist. She&#39;s a therapist.
+O bir tercüman. He is a translator.
+O bir terzi. He was a tailor.
+O bir tezgahtar. He is a clerk.
+O bir tesisatçı. He&#39;s a plumber.
+O bir tesviyeci. He is a metalworkers.
+O bir test mühendisi. It is a test engineer.
+O bir test pilotu. He was a test pilot.
+O bir teşrifatçı. He&#39;s an usher.
+O bir tiyatro yönetmeni. He is a theater director.
+O bir tombalacı. It is a tombalac.
+O bir topçu. He was a gunner.
+O bir tornacı. He was a machinist.
+O bir turizmci. He&#39;s a tourism.
+O bir tuğgeneral. He was a brigadier general.
+O bir tuhafiyeci. He was a haberdasher.
+O bir turşucu. It&#39;s a pickle.
+O bir tuzcu. He is a tuzcu.
+O bir tümamiral. It is a flag officer.
+O bir tümgeneral. He was a major general.
+O bir uçuş teknisyeni. He was a flight engineer.
+O bir ulaşım sorumlusu. He was a transport officer.
+O bir ustabaşı. He is a foreman.
+O bir uydu antenci. It is a satellite antenc.
+O bir uzay mühendisi. He&#39;s an aerospace engineer.
+O bir uzay bilimcisi. It is a space scientist.
+O bir Uzman Jandarma. He is a specialist gendarme.
+O bir uzman Çavuş. He is an expert Sgt.
+O bir Üretici. He&#39;s a producer.
+O bir Ürolog. He&#39;s a urologist.
+O bir Ütücü. He is a Ironers.
+O bir Üzümcü. He is a Üzümcü.
+O bir Üst Düzey Yönetici. He is a Senior Manager.
+O bir vaiz. He is a preacher.
+O bir vali. He is a governor.
+O bir vergi denetmeni. He was a tax inspector.
+O bir vergi müfettişi. He was a tax inspector.
+O bir vergi tahakkuk memuru. He&#39;s an assessor.
+O bir veritabanı yöneticisi. It is a database manager.
+O bir veri hazırlama ve kontrol işletmeni. He&#39;s a data processing and control business.
+O bir vestiyerci. He is a checkroom.
+O bir veteriner hekim. He is a veterinarian.
+O bir veteriner sağlık teknikeri. He is a veterinary health technician.
+O bir veznedar. He is a treasurer.
+O bir video editörü. It is a video editor.
+O bir vinç operatörü. He was a crane operator.
+O bir vitrinci. It is a vitrinc.
+O bir viyolonselci. He is a cellist.
+O bir vatman. He was a motorman.
+O bir yarbay. He was a lieutenant colonel.
+O bir yardımcı hakem. He&#39;s an assistant.
+O bir yardımcı hizmetli. He&#39;s an assistant servant.
+O bir yardımcı pilot. He is a co-pilot.
+O bir yargıç. He is a judge.
+O bir yatırım uzmanı. He&#39;s an investment expert.
+O bir yayıncı. He is a publisher.
+O bir yazar. He&#39;s a writer.
+O bir yazı işleri müdürü. He&#39;s an editor-in-chief.
+O bir yazılım mühendisi. He is a software engineer.
+O bir yelkenci. He&#39;s a sailor.
+O bir yeminli mali müşavir. He is a certified public accountant.
+O bir yeminli tercüman. He is a sworn translator.
+O bir yer gösterici. One demonstrator place.
+O bir yer teknisyeni. It is a place technician.
+O bir yerölçmeci. It is a yerölçmec.
+O bir yoğurtçu. He is a yoğurtçu.
+O bir yol bekçisi. One way watchman.
+O bir yorgancı. It&#39;s a quilt.
+O bir yorumcu. He is a commentator.
+O bir yönetici. He is a manager.
+O bir yüzücü. He was a swimmer.
+O bir yönetmen. He is a director.
+O bir yıkıcı. It is a destructive.
+O bir zabıta. He is a police.
+O bir zoolog. He is a zoologist.

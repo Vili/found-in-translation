@@ -6,10 +6,23 @@ import sys
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
-PREFIX = 'Hän on '
-API_KEY = ''
+# Command line argument 1: Google Cloud Translation API key (required)
+if len(sys.argv) < 2:
+	print('required argument: Google Cloud Translation API key')
+	exit()
 
-phrase_file = open("input.txt", "r")
+API_KEY = sys.argv[1]
+
+# Command line argument 2: source language code (defaults to 'fi')
+SOURCE_LANG = sys.argv[2] if len(sys.argv) > 2 else 'fi'
+
+# Command line argument 3: prefix to be added to phrases (defaults to 'Hän on ')
+PREFIX = sys.argv[3] if len(sys.argv) > 3 else 'Hän on '
+
+# Command line argument 4: input filename (defaults to 'input.txt')
+FILENAME = sys.argv[4] if len(sys.argv) > 4 else 'input.txt'
+
+phrase_file = open(FILENAME, "r")
 phrases = [line.rstrip() for line in phrase_file.readlines()]
 phrase_file.close()
 
@@ -37,7 +50,7 @@ queries.append(query)
 # Perform queries using Google Translate Cloud API
 translations = []
 for query in queries:
-	url = 'https://translation.googleapis.com/language/translate/v2?key=' + API_KEY + '&source=fi&target=en' + query
+	url = 'https://translation.googleapis.com/language/translate/v2?key=' + API_KEY + '&source=' + SOURCE_LANG + '&target=en' + query
 	try:
 		response = urllib2.urlopen(url)
 	except urllib2.URLError as e:

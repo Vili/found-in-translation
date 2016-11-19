@@ -1,0 +1,619 @@
+Hän on aarporaaja. He is aarporaaja.
+Hän on agrologi. He is Agronomist.
+Hän on agronomi. He is an agronomist.
+Hän on ahtaaja. He is a stevedore.
+Hän on aikataulusuunnittelija. He is a schedule planner.
+Hän on ajojärjestelijä. He is a dispatcher.
+* Hän on ajoneuvoasentaja. She is a vehicle mechanic.
+Hän on allasvalvoja. He is a pool supervisor.
+Hän on alueohjaaja. He is the area director.
+Hän on aluepäällikkö. He is the Regional Manager.
+Hän on aluetekniikan projektipäällikkö. He is a regional technology project manager.
+Hän on amanuenssi. He is the curator.
+Hän on ammattikalastaja. He is a professional fisherman.
+Hän on ammatinvalintapsykologi. He is a career psychologist.
+Hän on ammattiurheilija. He is a professional athlete.
+Hän on analyytikko. He is an analyst.
+* Hän on apteekkari. She is a pharmacist.
+Hän on apuhoitaja. He is practical nurses.
+Hän on apulaisasemakaavapäällikkö. He is apulaisasemakaavapäällikkö.
+Hän on apuneuvoteknikko. He is the orthopedic technician.
+Hän on arkeologi. He is the archeologist.
+Hän on arkistonhoitaja. He is the archivist.
+Hän on arkkitehti. He is an architect.
+Hän on Art Director. He is the Art Director.
+Hän on asemakaavasuunnittelija. He is the layout designer.
+Hän on asennuspäällikkö. He is the head of the installation.
+Hän on asennustyönjohtaja. He is the installation foreman.
+Hän on asentaja. He is a mechanic.
+Hän on asentaja-suunnittelija. He is a technician-designer.
+Hän on aseseppä. He is a gunsmith.
+Hän on asiakashankkija. He is a client acquirer.
+Hän on asiakaspalveluinsinööri. He is a customer service engineer.
+Hän on asiakasvastaava. He is responsible for the customer.
+Hän on asianajaja. He is a lawyer.
+Hän on askartelunohjaaja. He is a craft instructor.
+* Hän on astronomi. She is an astronomer.
+Hän on astrologi. He is an astrologer.
+* Hän on ATK-päällikkö. She is the IT Manager.
+Hän on ATK-tallentaja. He is a computer recorder.
+Hän on ATK-suunnittelija. He is a computer designer.
+Hän on automaalari. He has a car painter.
+Hän on automaatioasentaja. He is an automation technician.
+Hän on automaatiosuunnittelija. He is the designer of the automation.
+Hän on automyyjä. He is a car salesman.
+Hän on autonasentaja. He is a car mechanic.
+Hän on autonkuljettaja. He has a chauffeur.
+Hän on baarimestari. He is a barman.
+Hän on betoniekspertti. He is an expert in concrete.
+Hän on betonilaborantti. He is betonilaborantti.
+Hän on bioanalyytikko. He is bioanalyst.
+Hän on biokemisti. He is a biochemist.
+Hän on biologi. He is a biologist.
+Hän on CNC-koneistaja. He is a CNC machinist.
+Hän on copywriter. He is a copywriter.
+Hän on datanomi. He is datanomi.
+Hän on diakoni. He is a deacon.
+Hän on dramaturgi. He is a playwright.
+Hän on ekologi. He is an ecologist.
+Hän on ekonomi. He is an economist.
+Hän on elektroniikka-asentaja. He is an electronics installer.
+Hän on elektroniikkainsinööri. He is an electronics engineer.
+* Hän on elementtisuunnittelija. She is an element designer.
+Hän on elinkeinoasiamies. He is the Business Development.
+Hän on elintarviketyöntekijä. He is a food worker.
+Hän on elokuvaleikkaaja. He is a film editor.
+Hän on elokuvaohjaaja. He is a film director.
+Hän on eläinlääkäri. He is a veterinarian.
+Hän on eläintenhoitaja. He is a zookeeper.
+Hän on elämysopas. He has an experience guide.
+Hän on enologi. He is an oenologist.
+Hän on erikoissiivooja. He is a special cleaner.
+Hän on erikoistutkija. He is a senior researcher.
+Hän on erityisopettaja. He has special needs.
+Hän on erä- ja luonto-opas. He is a wilderness and nature guide.
+Hän on esimies. He is a supervisor.
+Hän on farmakologi. He is a pharmacologist.
+Hän on farmaseutti. He is a pharmaceutical.
+Hän on floristi. He is a florist.
+Hän on fysiologi. He is a physiologist.
+Hän on fysioterapeutti. He is a physiotherapist.
+Hän on fyysikko. He is a physicist.
+Hän on geneetikko. He is a geneticist.
+Hän on geologi. He is a geologist.
+Hän on geotekninen projektipäällikkö. He is a geotechnical project manager.
+Hän on geotekninen suunnittelija. He is a geotechnical designer.
+Hän on graafinen suunnittelija. He is a graphic designer.
+Hän on gynekologi. He is a gynecologist.
+Hän on hakkurinkuljettaja. He is chipper driver.
+Hän on hallintolakimies. He is a government lawyer.
+* Hän on hammashoitaja. She is a dental assistant.
+Hän on hammashuoltaja. He is the guardian of the tooth.
+Hän on hammaslääkäri. He is a dentist.
+Hän on hammasteknikko. He is a dental technician.
+Hän on hankintapäällikkö. He is the Purchasing Manager.
+Hän on haudankaivaja. He is the gravedigger.
+Hän on hautakivisuunnittelija. He has a tombstone designer.
+Hän on helikopterilentäjä. He is a helicopter pilot.
+Hän on hengenpelastaja. He is a lifeguard.
+Hän on henkilöstökonsultti. He is a staff consultant.
+* Hän on henkivartija. She has a bodyguard.
+* Hän on hieroja. She is a massage therapist.
+Hän on hirsitalon suunnittelija. He is a log house designer.
+Hän on hitsaaja. He is a welder.
+Hän on hollaaja. He is hollaaja.
+Hän on hovimestari. He is the butler.
+Hän on huolitsija. He is a forwarding agent.
+Hän on huoltoasematyöntekijä. He is a gas station employee.
+Hän on huoltoasentaja. He is a service technician.
+Hän on huoltoinsinööri. He is a maintenance engineer.
+Hän on huoltomiesten esimies. He is a maintenance supervisor for men.
+Hän on huoltopäällikkö. He is the Service Manager.
+Hän on huoltoteknikko. He is a technician.
+Hän on hyttisiivooja. He is a cabin cleaner.
+Hän on hätäkeskuspäivystäjä. He is the ERC operator.
+Hän on ikkunamyyjä. He is a window to the seller.
+Hän on ikkunanpesijä. He is a window cleaner.
+Hän on informaatikko. He is the Information Officer.
+Hän on insinööri. He is an engineer.
+* Hän on isännöitsijä. She is the superintendent.
+Hän on jalkojenhoitaja. He is a chiropodist.
+Hän on järjestyksenvalvoja. He is a vigilante.
+Hän on johtava maatalouslomittaja. He is the leading caretaker.
+Hän on johtava korjausrakennesuunnittelija. He is a leading structural engineer repair.
+Hän on junasuorittaja. He is the supplier of the train.
+Hän on juotostarkastaja. He is juotostarkastaja.
+Hän on juristi. He is a lawyer.
+Hän on juristilingvisti. He is juristilingvisti.
+Hän on järjestelmäasiantuntija. He is an expert system.
+Hän on jäteautonkuljettaja. He is a garbage truck driver.
+Hän on kadunrakennusmestari. He is the builder of the street.
+Hän on kalastaja. He is a fisherman.
+Hän on kalastusmestari. He is the master of the fishing.
+Hän on kankuri. He is a weaver.
+Hän on kansanedustaja. He is a Member of Parliament.
+Hän on kanttori. He is a cantor.
+* Hän on kampaaja. She is a hairdresser.
+Hän on kapellimestari. He is the conductor.
+Hän on kapteeni. He is the captain.
+Hän on karkaisija. He is karkaisija.
+Hän on kartoittaja. He is a surveyor.
+* Hän on kassanhoitaja. She is a cashier.
+Hän on katusuunnitteluyksikön päällikkö. He is the head of the street planning unit.
+Hän on katutekniikan projektipäällikkö. He is a street technology project manager.
+Hän on kaupunginjohtaja. He is the mayor.
+* Hän on käyttöinsinööri. She is the use of engineering.
+Hän on käyttöteknikko. He is a technician.
+Hän on kehitysinsinööri. He is a Development Engineer.
+Hän on kehitysvammaisten hoitaja. He is mentally retarded custodian.
+Hän on kehitysvammaisten ohjaaja. He is mentally retarded director.
+Hän on keittiöpäällikkö. He is the head chef.
+Hän on kelloseppä. He is a watchmaker.
+Hän on kemisti. He is a chemist.
+Hän on keramiikka- ja lasitaiteilija. He is ceramic and glass artist.
+Hän on keräilijä. He is a collector.
+Hän on kielenkääntäjä. He is a translator.
+* Hän on kieliteknologi. She is the language of technology.
+Hän on kielten opettaja. He is a teacher of languages.
+Hän on kielten tutkija. He is a researcher of language.
+Hän on kiinteistönhoitaja. He is a real estate manager.
+* Hän on kiertonainen. She is a woman of rotation.
+Hän on kiinteistönvälittäjä. He is a real estate agent.
+Hän on kiinteistörakennusmestari. He is a real estate builder.
+Hän on kirjailija. He is a writer.
+Hän on kirjanpitäjä. He is an accountant.
+Hän on kirjastonhoitaja. He is a librarian.
+Hän on kirurgi. He is a surgeon.
+Hän on kirvesmies. He is a carpenter.
+Hän on kiventekijä. He is the rock factor.
+* Hän on kodinhoitaja. She is a homemaker.
+Hän on kokki. He is a chef.
+* Hän on kondiittori. She is a pastry chef.
+Hän on konduktööri. He is the conductor.
+Hän on koneapulainen. He is a machine helper.
+Hän on koneistaja. He is a machinist.
+Hän on konemestari. He is an engineer.
+Hän on konsulentti. He is Konsulenten.
+Hän on konsultti. He is a consultant.
+Hän on konservaattori. He is a conservationist.
+Hän on korjausrakennesuunnittelija. He is the repair of structural engineers.
+Hän on korjaussuunnittelija. He is the repair of the designer.
+* Hän on kosmetologi. She is a beautician.
+Hän on kosteuskartoittaja. He is kosteuskartoittaja.
+Hän on kotitalousneuvoja. He is a household advice.
+* Hän on kotitalousopettaja. She is a home economics teacher.
+* Hän on kotiäiti. She is a housewife.
+Hän on koulunkäyntiavustaja. He is learning assistant.
+Hän on koulupsykologi. He has a school psychologist.
+Hän on koulutettu hieroja. He is a trained masseuse.
+Hän on koulutussuunnittelija. He is the Training Officer.
+Hän on kriitikko. He is a critic.
+Hän on kuivausasentaja. He is drying installer.
+Hän on kuivauskartoittaja. He is kuivauskartoittaja.
+Hän on kuljetusalajohtaja. He is kuljetusalajohtaja.
+Hän on kultaseppä. He is a jeweler.
+Hän on kulttuurivälittäjä. He is a cultural mediator.
+Hän on kuluttajaneuvoja. He is a consumer advice.
+Hän on kunnanjohtaja. He is the mayor.
+Hän on kunnossapidon esimies. He is a maintenance supervisor.
+Hän on kunnossapitopäällikkö. He is the maintenance manager.
+Hän on kuntoarvioija. He is a fitness appraiser.
+Hän on kuorma-autonkuljettaja. He is a truck driver.
+Hän on kuriiri. He is a courier.
+Hän on kustannustoimittaja. He is the editor.
+Hän on kutoja. He is a weaver.
+Hän on kuulontutkija. He is the Hearing Care Professional.
+Hän on kuvaaja. He is a graph.
+Hän on kuvaamataidon opettaja. He is an art teacher.
+Hän on kuvanauhoittaja. He is kuvanauhoittaja.
+Hän on kuvanveistäjä. He is a sculptor.
+Hän on kuvaussihteeri. He is a description of a secretary.
+Hän on kuvittaja. He is an illustrator.
+Hän on käsikirjoittaja. He is a screenwriter.
+* Hän on kätilö. She is a midwife.
+* Hän on käyttöinsinööri. She is the use of engineering.
+Hän on käyttöteknikko. He is a technician.
+Hän on kääntäjä. He is a translator.
+Hän on laatuinsinööri. He is a quality engineer.
+Hän on laatupäällikkö. He is the quality manager.
+Hän on laborantti. He is a laboratory technician.
+Hän on laboratorionhoitaja. He is a medical laboratory.
+Hän on laitoshuoltaja (päiväkoti yms.). He is the custodian institution (kindergarten, etc.).
+Hän on laitosmies. He is a maintenance man.
+Hän on laivanrakennustaitaja. He is a master of shipbuilding.
+Hän on lakimies. He is a lawyer.
+Hän on lasinpuhaltaja. He is a glassblower.
+Hän on lasittaja. He is a glazier.
+* Hän on lastenhoitaja. She is a nanny.
+* Hän on lastentarhanopettaja. She is a kindergarten teacher.
+Hän on laulaja. He is a singer.
+Hän on lavastaja. He is a stage designer.
+Hän on lehdenjakaja. He is the paperboy.
+Hän on lehtori. He is a senior lecturer.
+Hän on leipuri. He is a baker.
+Hän on lennonjohtaja. He is the controller.
+Hän on lentäjä. He is a pilot.
+* Hän on lentoemäntä. She is a flight attendant.
+Hän on levyseppä. He is levyseppä.
+Hän on lihanleikkaaja. He is a meat cutter.
+Hän on liikenneinsinööri. He is a traffic engineer.
+Hän on liikennelentäjä. He has a commercial pilot.
+Hän on liikenneohjaaja. He is a traffic director.
+Hän on liikenneopettaja. He is a teacher of traffic.
+Hän on liikennesuunnittelun projektipäällikkö. He is the project manager of transport planning.
+Hän on liiketoimintapäällikkö. He is a business manager.
+Hän on liikunnanohjaaja. He is a physical education instructor.
+Hän on liikunnanopettaja. He is a physical education teacher.
+Hän on limnologi. He is Limnologist.
+Hän on linja-autonkuljettaja. He is a bus driver.
+Hän on lipuntarkastaja. He has a ticket inspector.
+Hän on logistiikan projektipäällikkö. He is the project manager of logistics.
+Hän on lujuusopin taitaja. He is a master of strength of materials.
+Hän on lukkoseppä. He is a locksmith.
+Hän on luokanopettaja. He is a teacher.
+Hän on luotsi. He is a pilot.
+Hän on luottoneuvoja. He is a credit advice.
+Hän on lupa-arkkitehti. He is authorized architect.
+Hän on lupainsinööri. He has authorized engineer.
+Hän on LVI-asentaja. He is a plumber.
+Hän on LV-projektipäällikkö. He is a plumbing project.
+Hän on lähetti. He has sent.
+Hän on lähihoitaja. He is a practical nurse.
+Hän on lämmittäjä. He is a fireman.
+Hän on lääketyöntekijä. He is a drug worker.
+Hän on lääkintävahtimestari. He is orderly.
+Hän on lääkäri. He is a doctor.
+Hän on lääninrovasti. He is the county provost.
+Hän on maalari. He is a painter.
+Hän on maanhankintaininsinööri. He is maanhankintaininsinööri.
+* Hän on maankäytön suunnittelija. She has land-use planner.
+Hän on maanmittausinsinööri. He is a surveyor.
+Hän on maanviljelijä. He is a farmer.
+Hän on maatalouslomittaja. He is the caretaker.
+Hän on maataloustyöntekijä. He is an agricultural worker.
+Hän on maatalousyrittäjä. He is a farmer.
+Hän on mainostenjakaja. He is the ad Dealer.
+Hän on mainosyrittäjä. He is an advertising entrepreneur.
+Hän on majakanvartija. He is a lighthouse keeper.
+Hän on malli. He is a model.
+* Hän on markkinointipäällikkö. She is a marketing manager.
+Hän on matemaatikko. He is a mathematician.
+Hän on matematiikan opettaja. He is a teacher of mathematics.
+Hän on matkailuneuvoja. He is a tourism advice.
+Hän on matkailutiedottaja. He is a tourism spokesman.
+* Hän on matkaopas. She is a travel guide.
+* Hän on matkatoimistovirkailija. She is a travel agent.
+Hän on media-assistentti. He is a media assistant.
+Hän on medianomi. He is a bachelor of culture.
+Hän on mediasuunnittelija. He is a media designer.
+Hän on meedio. He is a psychic.
+Hän on meijeristi. He is the dairyman.
+Hän on mekaniikkasuunnittelija. He is a mechanical designer.
+Hän on mekaniikkasuunnittelupäällikkö. He is the mechanics of Planning.
+Hän on merikapteeni. He has been a sea captain.
+Hän on merimies. He is a sailor.
+Hän on merivartija. He is a marine guard.
+Hän on merkonomi. He is a Graduate in business studies.
+Hän on meteorologi. He is a meteorologist.
+Hän on metrojunan kuljettaja. He is a subway train driver.
+Hän on metsuri. He is a lumberjack.
+Hän on metsäkoneenkuljettaja. He is a forest machine operator.
+Hän on metsänhoitaja. He is a forester.
+* Hän on mielenterveyshoitaja. She is a nurse.
+* Hän on mielisairaanhoitaja. She is a nurse in mind.
+Hän on mikrotukihenkilö. He is a computer support person.
+Hän on monistaja. He is a multiplier.
+Hän on murskaamon työpäällikkö. He is crushing Foreman.
+* Hän on museoamanuenssi. She is a museum curator.
+Hän on musiikinopettaja. He is a music teacher.
+Hän on muurari. He is a mason.
+Hän on muusikko. He is a musician.
+Hän on muuttomies. He is moving.
+Hän on myyjä. He is the seller.
+Hän on myymälän kassanhoitaja. He is the store&#39;s cashier.
+Hän on myymälänhoitaja. He is the shop attendant.
+Hän on myymäläsuunnittelija. He is a store designer.
+Hän on myynninedistäjä. He is a promoter.
+Hän on myyntiedustaja. He is a sales agent.
+Hän on myyntineuvottelija. He is a sales consultant.
+Hän on myyntipäällikkö. He is the sales manager.
+Hän on mänkimies. He is mänkimies.
+Hän on nahkuri. He is a tanner.
+Hän on naprapaatti. He is naprapath.
+Hän on neurologi. He is a neurologist.
+Hän on neuropsykologi. He is a neuropsychologist.
+Hän on neuvontainsinööri. He is a consulting engineer.
+Hän on nimismies. He is the sheriff.
+Hän on notariaattisihteeri. He is notariaattisihteeri.
+Hän on nuohooja. He is a chimney sweep.
+Hän on nuoriso-ohjaaja. He is a youth leader.
+Hän on näyttelijä. He is an actor.
+Hän on näyttämömestari. He is the stage manager.
+Hän on ohjaaja (hoito- ja sosiaaliala). He is the director (medical and social care).
+Hän on ohjaaja (teatteri- ja elokuva-ala). He is the director (theater and film industry).
+Hän on ohjelmistoasiantuntija. He is a software expert.
+Hän on ohjelmistosuunnittelija. He is a software engineer.
+* Hän on ohjelmoija. She is a programmer.
+Hän on oikolukija. He is a proofreader.
+* Hän on ompelija-artesaani. She is a seamstress artisan.
+Hän on opaskoirankouluttaja. He is a guide dog trainer.
+Hän on opettaja. He is a teacher.
+Hän on opinto-ohjaaja. He is a student counselor.
+Hän on optikko. He is an optician.
+Hän on ostaja. He is the buyer.
+Hän on painaja. He is a nightmare.
+Hän on painopinnan valmistaja. He is in prepress.
+Hän on pakkaaja. He is a packer.
+Hän on pakettiautonkuljettaja. He is a van driver.
+Hän on palkanlaskija. He is a wages clerk.
+Hän on pallittaja. He is pallittaja.
+Hän on palomestari. He is the fire chief.
+Hän on palomies. He is a firefighter.
+Hän on palopäällikkö. He is the fire chief.
+* Hän on palotarkastaja. She&#39;s a fire inspector.
+Hän on palovartija. He is a fire guard.
+Hän on palveluesimies. He is palveluesimies.
+Hän on pankinjohtaja. He is a director of the bank.
+Hän on pankkitoimihenkilö. He has a bank employee.
+Hän on panimomestari. He is a master brewer.
+Hän on panostaja. He is the bettor.
+Hän on pappi. He is a priest.
+Hän on parturi. He is a barber.
+* Hän on parturi-kampaaja. She is a hairdresser.
+Hän on pastori. He is the pastor.
+Hän on patriarkka. He is the patriarch.
+Hän on pelinhoitaja. He is the custodian of the game.
+Hän on pelisuunnittelija. He has been a game designer.
+Hän on peltiseppä. He is a tin-smith.
+Hän on perheneuvolapsykologi. He has family counseling psychologist.
+Hän on perhepäivähoitaja. He is a child minder.
+Hän on personal trainer. He is a personal trainer.
+* Hän on perushoitaja. She is a nurse.
+Hän on perämies. He is the co-pilot.
+Hän on pianonvirittäjä. He is a piano tuner.
+Hän on pieneläinhoitaja. He is a small animal technician.
+Hän on piirtäjä. He is a graphic artist.
+Hän on piispa. He is the bishop.
+Hän on pizzakuski. He is a pizza driver.
+Hän on poliisi. He is a police.
+Hän on poliitikko. He is a politician.
+Hän on postinjakaja. He is a postman.
+Hän on postinlajittelija. He is a mail sorter.
+Hän on projektihenkilö. He is a personal project.
+Hän on projekti-insinööri. He is a project engineer.
+Hän on projektipäällikkö. He is the project manager.
+Hän on prosessinhoitaja. He is the custodian of the process.
+* Hän on proviisori. She is a pharmacist.
+Hän on psykolingvisti. He is psycholinguist.
+Hän on psykologi. He is a psychologist.
+Hän on puhelinvaihteen hoitaja. He is the PBX attendant.
+* Hän on puheterapeutti. She is a speech therapist.
+Hän on purseri. He is a purser.
+Hän on puutarhatyöntekijä. He has a garden worker.
+Hän on putkiasentaja. He is a plumber.
+Hän on puuseppä. He is a carpenter.
+Hän on puutarhuri. He is the gardener.
+Hän on pyöveli. He is the executioner.
+Hän on päiväkotiapulainen. He is a day maid.
+Hän on radio- ja tv-asentaja. He is a radio and TV technician.
+Hän on rahastaja. He is the conductor.
+Hän on raitiovaununkuljettaja. He is a tram driver.
+Hän on raittiussihteeri. He is the secretary of temperance.
+Hän on rajatarkastaja. He is a limit to the inspector.
+Hän on rajavartija. He is a border guard.
+Hän on rakennesuunnittelija. He is a structural engineer.
+Hän on rakennusapumies. He is a construction helper.
+Hän on rakennusarkkitehti. He is the building architect.
+Hän on rakennusmaalari. He is building a painter.
+Hän on rakennusmestari. He is a builder.
+Hän on rakennusmies. He is a construction worker.
+Hän on rakennusnosturinkuljettaja. He is a construction crane operator.
+Hän on rakennussähkösuunnittelija. He is building the electrical designer.
+Hän on rakennussuunnittelija. He is a building designer.
+Hän on rakennuttaja-asiamies. He is the client-attorney.
+Hän on raskaskalustoasentaja. He is a heavy equipment mechanic.
+Hän on rassaaja. He is rassaaja.
+Hän on ratatyöntekijä. He is a track worker.
+Hän on ratsastuksenopettaja. He is a riding instructor.
+Hän on rauhantarkkailija. He is a peace observer.
+Hän on rauhanturvaaja. He is a peacekeeper.
+Hän on rauhantutkija. He is a peace researcher.
+Hän on ravintolapäällikkö. He is the head of the restaurant.
+Hän on ravivalmentaja. He is a horse trainer.
+Hän on ravitsemusterapeutti. He is a dietician.
+Hän on rehtori. He is the rector.
+Hän on runoilija. He is a poet.
+Hän on ryhmäesimies. He is the group manager.
+Hän on räätäli. He is a tailor.
+Hän on röntgenhoitaja. He is a radiographer.
+Hän on röyslääjä. He is röyslääjä.
+Hän on sairaala-apulainen. He is a hospital assistant.
+* Hän on sairaanhoitaja. She is a nurse.
+Hän on sanoittaja. He is the author of the lyrics.
+Hän on sarjakuvapiirtäjä. He is a cartoonist.
+Hän on savensotkija. He is savensotkija.
+Hän on savenvalaja. He is the potter.
+Hän on savusukeltaja. He is a smoke diver.
+Hän on seksuaalineuvoja. He is a sexual advice.
+Hän on seksuaaliterapeutti. He is a Sex Therapist.
+Hän on seppä. He is a blacksmith.
+Hän on setittäjä. He is setittäjä.
+Hän on seurakuntalehtori. He is a lecturer in the church.
+Hän on seurakuntamestari. He is a master of the congregation.
+Hän on sihteeri. He is the secretary.
+Hän on siirtoinsinööri. He is the transfer of an engineer.
+Hän on siirtoteknikko. He is the transfer of a technician.
+Hän on siivooja. He is cleaner.
+Hän on siivoustyönjohtaja. He is a cleaning supervisor.
+Hän on silmälääkäri. He is an ophthalmologist.
+* Hän on sisustusarkkitehti. She is an interior designer.
+* Hän on sisustussuunnittelija. She is an interior designer.
+Hän on skreenintekijä. He is skreenintekijä.
+Hän on somistaja. He is decorators.
+Hän on sommelieeri. He is sommelieeri.
+Hän on sorvari. He is a turner.
+Hän on sosiaalihoitaja. He is a social nurse.
+Hän on sosiaalijohtaja. He is the Social Director.
+Hän on sosiaalikasvattaja. He is a social educator.
+Hän on sosiaaliohjaaja. He is a social worker.
+Hän on sosiaalityöntekijä. He is a social worker.
+Hän on sosiologi. He is a sociologist.
+Hän on sosionomi. He is a social worker.
+Hän on sotilas. He is a soldier.
+Hän on stuertti. He is a steward.
+Hän on sukeltaja. He is a diver.
+Hän on suklaamestari. He is a master of chocolate.
+Hän on suntio. He is the sacristan.
+* Hän on suuhygienisti. She is a dental hygienist.
+Hän on suunnittelija. He is the designer.
+Hän on suunnitteluesimies. He is planning supervisor.
+Hän on suunnitteluinsinööri. He is a design engineer.
+Hän on suunnittelupäällikkö. He is planning manager.
+Hän on suutari. He is a dud.
+Hän on stylisti. He is a stylist.
+Hän on syynääjä. He is syynääjä.
+Hän on syyttäjä. He is a prosecutor.
+Hän on sähköasentaja. He is an electrician.
+Hän on sähköasentajien esimies. He is the foreman of electricians.
+Hän on sähköinsinööri. He is an electrical engineer.
+Hän on sähkösuunnittelija. He is an electrical designer.
+Hän on sähkösuunnittelun projektipäällikkö. He is an electrical engineering project manager.
+Hän on sähkötöiden projektinhoitaja. He is the project manager of electrical work.
+Hän on sähkötyönjohtaja. He is an electrical foreman.
+Hän on sähkövoimatekniikan projektipäällikkö. He is an electrical power engineering project manager.
+Hän on säveltäjä. He is a composer.
+Hän on taidemaalari. He is a painter.
+Hän on taideterapeutti. He is an art therapist.
+Hän on taksinkuljettaja. He is a taxi driver.
+Hän on taksitarkastaja. He is a taxi inspector.
+Hän on tallentaja. He is a recorder.
+Hän on talonmies. He is the caretaker.
+Hän on tanssija. He is a dancer.
+Hän on tanssinopettaja. He is a dance teacher.
+* Hän on tarjoilija. She is a waitress.
+Hän on tarkastusinsinööri. He is an engineer inspection.
+Hän on tatuoija. He has a tattoo artist.
+Hän on teknikko. He is a technician.
+Hän on teknillinen mekaaniikkataitaja. He is mekaaniikkataitaja of Technology.
+Hän on tekninen kirjoittaja. He is a technical writer.
+Hän on tekninen piirtäjä. He is a technical illustrator.
+Hän on tekninen tuotepäällikkö. He is a technical product manager.
+Hän on teknisen työn opettaja. He is a technical work of the teacher.
+Hän on tekstiilityön opettaja. He is a textiles teacher.
+Hän on tekstinkäsittelijä. He is a word processor.
+Hän on teollinen muotoilija. He is an industrial designer.
+Hän on teollisuusapumies. He is an industrial helper.
+Hän on teollisuussiivooja. He is an industrial cleaner.
+Hän on teollisuusvartija. He is an industrial security guard.
+Hän on terminaalityöntekijä. He is a terminal worker.
+* Hän on terveydenhoitaja. She is a nurse.
+Hän on terveyskeskuspsykologi. He is a health psychologist.
+Hän on teurastaja. He is a butcher.
+Hän on tiedottaja. He is the spokesman.
+Hän on tiemestari. He is the road inspectors.
+Hän on tietekniikan projektipäällikkö. He is a Highway Engineering Project.
+Hän on tietohallintopäällikkö. He is the Chief Information Officer.
+* Hän on tietokirjailija. She is a fiction writer.
+Hän on tietokoneasentaja. He is a computer technician.
+Hän on tietoliikenneasentaja. He is a telecommunications engineer.
+Hän on tietopalvelupäällikkö. He is the Head of Information Services.
+Hän on tietoturva-asiantuntija. He is a computer security expert.
+Hän on tiimipäällikkö. He is the team leader.
+Hän on tilintarkastaja. He is an auditor.
+Hän on Tiskijukka (DJ). He is a Disc Jockey (DJ).
+Hän on toimialapäällikkö. He is the Branch Manager.
+* Hän on toimintaterapeutti. She is an occupational therapist.
+Hän on toimistoarkkitehti. He is the architect office.
+Hän on toimistoinsinööri. He has an office engineer.
+* Hän on toimistopäällikkö. She is the office manager.
+Hän on toimistosihteeri. He is the secretary.
+Hän on toimistovirkailija. He has an office clerk.
+Hän on toimittaja. He is a journalist.
+Hän on toimitusjohtaja. He is the CEO.
+Hän on torimyyjä. He is a stallholder.
+Hän on tradenomi. He is a Bachelor of Business Administration.
+Hän on tuholaistorjuja. He is a pest control operator.
+Hän on tukkumyyjä. He is a wholesaler.
+Hän on tulkki. He is the interpreter.
+Hän on tullaaja. He is a Customs Forwarding.
+Hän on tullivartija. He is a customs guard.
+Hän on tunneliporaaja. He is tunneliporaaja.
+Hän on tuomioistuinlakimies. He is a court lawyer.
+Hän on tuotantoinsinööri. He is a production engineer.
+* Hän on tuotekehitysinsinööri. She is a product development engineer.
+Hän on tuotepäällikkö. He is the product manager.
+Hän on tuottaja. He is the producer.
+Hän on turkistarhaaja. He has fur.
+Hän on turkkuri. He is a furrier.
+Hän on tutkija. He is a researcher.
+Hän on tutkimusassistentti. He is a research assistant.
+Hän on tutkimushaastattelija. He is a research interviewer.
+Hän on tutkijainsinööri. He is a graduate engineer.
+Hän on työkaluviilaaja. He is työkaluviilaaja.
+Hän on työmaainsinööri. He is a construction engineer.
+Hän on työmaamestari. He is a master site.
+Hän on työnjohtaja. He is a foreman.
+Hän on työpäällikkö. He is heading the project.
+Hän on työvoimaneuvoja. He is the labor counselor.
+Hän on työvoimaohjaaja. He is a labor director.
+Hän on työvuorosuunnittelija. He is the designer of the shift.
+* Hän on tähtitieteilijä. She is an astronomer.
+Hän on uimaopettaja. He has a swimming teacher.
+Hän on uinninvalvoja. He is a lifeguard.
+Hän on ulosottomies. He is the bailiff.
+Hän on upseeri. He is an officer.
+Hän on urheilija. He is an athlete.
+Hän on urheiluhieroja. He is a sports masseur.
+Hän on urheiluvalmentaja. He is a sports coach.
+Hän on uskonnon opettaja. He is a teacher of religion.
+* Hän on vaatesuunnittelija. She is a fashion designer.
+Hän on vaatturi. He is a tailor.
+Hän on vahinkokartoittaja. He is vahinkokartoittaja.
+Hän on vahtimestari. He has a doorman.
+Hän on vaihdemies. He is a changed man.
+Hän on vaihteenhoitaja. He is a switchboard operator.
+Hän on vakuutuskäsittelijä. He is an insurance handler.
+Hän on valaistusmestari. He is a master of lighting.
+Hän on valaistustarkkailija. He is lighting the observer.
+Hän on valokuvaaja. He is a photographer.
+* Hän on valokuvamalli. She is a photo model.
+Hän on valvonta-arkkitehti. He is a supervisory architect.
+Hän on vanginvartija. He is the keeper of the prison.
+Hän on varastomies. He is a warehouse worker.
+Hän on varastonhoitaja. He is a warehouse manager.
+Hän on varastotyöntekijä. He is a warehouse worker.
+Hän on vartija. He is a security guard.
+* Hän on vastaanottovirkailija. She is a receptionist.
+Hän on vastaava mestari. He is responsible for the master.
+Hän on vastaava työmaamestari. He is responsible for Foreman.
+Hän on vastaava työnjohtaja. He is the foreman in charge.
+Hän on väylätekniikan asiantuntija. He is an expert in bus technology.
+* Hän on veneenrakentaja. She is a boat builder.
+* Hän on verhoilija. She is an upholsterer.
+Hän on verovirkailija. He is a tax clerk.
+Hän on vesihuoltoalan asiantuntija. He is an expert in the field of water management.
+Hän on veturinkuljettaja. He is the engine driver.
+Hän on viemärisukeltaja. He is a sewer diver.
+* Hän on viittomakielen tulkki. She is a sign language interpreter.
+Hän on virkailija. He is a clerk.
+Hän on voimalaitospäällikkö. He is the head of the power plant.
+Hän on vuorotyönjohtaja. He is a shift foreman.
+Hän on vähittäiskauppias. He is a retailer.
+Hän on webmaster. He is the webmaster.
+Hän on yhdyskuntatekniikan insinööri. He is the municipal engineer.
+Hän on yhdyskuntatekniikan rakennusmestari. He is a civil engineering builder.
+Hän on yhteiskuntatutkija. He is a social scientist.
+Hän on yhteisöpedagogi. He is a community educator.
+Hän on yhteyssihteeri. He is the secretary.
+Hän on yksikön päällikkö. He is Head of the Unit.
+Hän on yksityisetsivä. He is a private detective.
+Hän on yksityisyrittäjä. He is self-employed.
+Hän on yliopettaja. He is a senior lecturer.
+Hän on ylipanostaja. He is blasting technical manager.
+Hän on ympäristönsuojelusihteeri. He is the secretary of the protection of the environment.
+* Hän on ympäristönsuojelutarkastaja. She is environmental protection inspector.
+Hän on yrittäjä. He is an entrepreneur.
+Hän on yrityslakimies. He is a corporate lawyer.
+* Hän on Äidinkielen opettaja. She is the mother tongue teacher.
+Hän on Äänitarkkailija. He is a sound Observer.
+Hän on Äänittäjä. He is a sound recorder.

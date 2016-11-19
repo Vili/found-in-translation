@@ -6,10 +6,10 @@ import sys
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
-PREFIX = 'Hän on '
+PREFIX = 'O bir '
 API_KEY = ''
 
-phrase_file = open("input.txt", "r")
+phrase_file = open("input-tr.txt", "r")
 phrases = [line.rstrip() for line in phrase_file.readlines()]
 phrase_file.close()
 
@@ -37,7 +37,7 @@ queries.append(query)
 # Perform queries using Google Translate Cloud API
 translations = []
 for query in queries:
-	url = 'https://translation.googleapis.com/language/translate/v2?key=' + API_KEY + '&source=fi&target=en' + query
+	url = 'https://translation.googleapis.com/language/translate/v2?key=' + API_KEY + '&source=tr&target=en' + query
 	try:
 		response = urllib2.urlopen(url)
 	except urllib2.URLError as e:
